@@ -14,8 +14,8 @@
     "go"
   ],
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-preset-env": "^1.6.1",
-    "gulp-babel": "^7.0.1"
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.2",
+    "gulp-babel": "^8.0.0"
   }
 }
